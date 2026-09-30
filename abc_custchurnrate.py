@@ -148,7 +148,6 @@ files.download('churn_model.pkl')
 files.download('scaler.pkl')
 files.download('model_columns.pkl')
 
-pip install streamlit
 
 import streamlit as st
 import pandas as pd
